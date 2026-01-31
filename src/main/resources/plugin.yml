@@ -1,0 +1,4 @@
+name: NoteblockAudioPlayer
+version: '1.0.0'
+main: com.decacagle.noteblockAudioPlayer.NoteblockAudioPlayer
+api-version: '1.21'
